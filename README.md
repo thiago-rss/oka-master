@@ -10,7 +10,7 @@
 #### 1 - Instalação
 Para clonar e instalar os pacotes de frontend & backend:
 ```
-$ git clone https://github.com/thiago-rss/oka-master.git
+$ git clone git@github.com:thiago-rss/oka-master.git
 $ cd Oka
 $ npm i
 $ cd lib
